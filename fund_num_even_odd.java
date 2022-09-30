@@ -10,7 +10,7 @@ public class fund_num_even_odd {
     }
 
 public static void even_odd(int num){
-    if(num/2==0){
+    if(num%2==0){
         System.out.println("NUmber is even"+ num);
     }
     else{
