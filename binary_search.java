@@ -20,7 +20,7 @@ public class binary_search {
             break;
         }
         else if(num<a[mid]){
-            last = mid 
+            last = mid-1;
 
         }
         else if(num>a[mid]){
