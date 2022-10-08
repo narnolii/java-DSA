@@ -17,8 +17,6 @@ public class bucket_sort {
             a1[j++]=i;
         }
        }
-
-
     }
 
 
