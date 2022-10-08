@@ -4,7 +4,6 @@ public class fund_num_even_odd {
         Scanner s = new Scanner(System.in);
         System.out.println("Enter the number:");
         int num = s.nextInt();
-
         even_odd(num);
 
     }
