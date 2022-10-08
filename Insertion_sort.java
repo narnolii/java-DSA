@@ -15,8 +15,6 @@ public class Insertion_sort {
             }
             a[j+1]=temp;
         }
-
-
     }
 
     public static void main(String[] args){
